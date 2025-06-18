@@ -1,4 +1,4 @@
----
+g---
 title: Passes
 description: Passes let you charge users a one-time Robux fee to access privileges inside your experience.
 ---
